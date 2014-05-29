@@ -1,0 +1,10 @@
+Package: valfilr
+Type: Package
+Title: Handling swedish election result files from the Swedish Election Agency.
+Version: 0.1
+Date: 2014-05-29
+Author: Mans Magnusson and Richard Ohrvall
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: Handling swedish election result files from the Swedish Election
+    Agency.
+License: AGPL-3
